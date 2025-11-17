@@ -1,6 +1,3 @@
 # hello-world
 
-Hi everyone, my name is Athavan Elangko. 
-
-I am a recent graduate from the University of Toronto, completing a double major in Computer Science and Statistical Science.
-I enjoy watching anime, and no, that does not make me a weeabo or an otaku.
+Hi everyone, my name is Athavan Elangko. Follow me on my journey to become a product manager.
